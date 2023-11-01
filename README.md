@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minesahin&show_icons=true&locale=en&layout=compact" alt="minesahin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minesahin&" alt="minesahin" /></p>
+
